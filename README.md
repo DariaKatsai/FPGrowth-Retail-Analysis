@@ -17,12 +17,12 @@
 
 ## Встановлення
 Встановіть необхідні бібліотеки за допомогою команд:
-\```
+\```python
 pip install pandas mlxtend
 \```
 
 ## Використання
 Щоб виконати аналіз асоціативних правил, просто запустіть скрипт `fpgrowth_retail_analysis.py` з командного рядка.
-\```
+\```python
 python fpgrowth_retail_analysis.py
 \```
